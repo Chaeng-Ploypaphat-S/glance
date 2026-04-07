@@ -1,4 +1,8 @@
-# jobseeker
-A Django-based JobSeeker implementation. 
+# AI-Powered Fraud Detection & Explainability Dashboard
 
-This project is a Django-based component written to be part of a web application for a job board. It is designed to connect job seekers with recruiting companies. It is structured with separate, modular applications for each user type, ensuring a clear and organized codebase.
+## Stack:
+- Python 3 + FastAPI for backend API
+- LightGBM for fraud classification and PyTorch neural network to show a comparison
+- OpenAI GPT-4o for natural language explanations
+- React frontend with a transaction dashboard
+- Snowflake — transaction storage
